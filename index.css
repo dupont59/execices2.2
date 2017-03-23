@@ -1,0 +1,23 @@
+p {
+	font-size: 18px;
+	text-align: center;
+}
+header h1 {
+	text-align: center;
+}
+header { text-align: left
+}
+header h2 {
+	text-align: right;
+}
+h2 {
+	font-size: 18px;
+	text-align: center;
+}
+h2,span {
+	font-size: 22px;
+	font-style: italic;
+}
+#lasttitle {
+	text-decoration: line-through;
+}
